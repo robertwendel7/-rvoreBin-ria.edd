@@ -45,3 +45,9 @@ A raiz (10) é sempre preta.
 Os nós vermelhos (5, 15, 30) não possuem filhos da cor vermelha.
 
 Cada caminho da raiz até as folhas tem o mesmo número de nós pretos.
+
+
+
+
+
+Referência de pesquisa: https://www.wscubetech.com/resources/dsa/red-black-tree
