@@ -139,14 +139,24 @@ class ArvoreFla{
         }
     }
 }
+function clickAdicionar(){
+    let valor = document.getElementById("valor").value
+    arvore.adicionar(valor)
+    
+    
+}
 
+function clickVisualizar(){
+    arvore.passearEmOrdem()
+}
 
 let arvore = new ArvoreFla();
 
-arvore.adicionar(10);
-arvore.adicionar(11);
-arvore.adicionar(20);
-arvore.adicionar(7);
-arvore.adicionar(55);
+// arvore.adicionar(10);
+// arvore.adicionar(11);
+// arvore.adicionar(20);
+// arvore.adicionar(70);
+// arvore.adicionar(5);
+
 
 arvore.passearEmOrdem();
