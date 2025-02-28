@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "node.js": "^0.0.1-security"
+  },
+  "name": "-rvorebin-ria.edd",
+  "version": "1.0.0",
+  "description": "# Introdução:",
+  "main": "ArvoreFla.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
