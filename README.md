@@ -48,6 +48,3 @@ Cada caminho da raiz até as folhas tem o mesmo número de nós pretos.
 
 
 
-
-
-Referência de pesquisa: https://www.wscubetech.com/resources/dsa/red-black-tree
